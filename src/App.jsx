@@ -5,9 +5,9 @@ function App() {
         TaskMeter
       </h1>
 
-      <div className="pt-[5px] rounded border-white"> 
+      <div className="pt-[5px] rounded border-white">
         <p>Tasks</p>
-        </div> 
+      </div>
     </>
   );
 }
