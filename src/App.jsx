@@ -5,7 +5,7 @@ function App() {
         TaskMeter
       </h1>
 
-      <div className="rounded border-white pt-[5px]">
+      <div className="mx-100 my-10 rounded-md border-white bg-white p-40 text-center text-2xl font-bold shadow-md shadow-black transition-colors delay-50 hover:bg-slate-400">
         <p>Tasks</p>
       </div>
     </>
