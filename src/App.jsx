@@ -1,11 +1,11 @@
 function App() {
   return (
     <>
-      <h1 className="text-white font-bold font-mono text-center text-6xl pt-5">
+      <h1 className="pt-5 text-center font-mono text-6xl font-bold text-white">
         TaskMeter
       </h1>
 
-      <div className="pt-[5px] rounded border-white">
+      <div className="rounded border-white pt-[5px]">
         <p>Tasks</p>
       </div>
     </>
